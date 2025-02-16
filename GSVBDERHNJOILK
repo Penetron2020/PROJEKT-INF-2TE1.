@@ -4,7 +4,7 @@
     <!-- Komentarz 1 -->
     <title>Strona główna 2TE1</title>
     <meta charset="UTF-8">
-    <meta name="author" content="Imię Nazwisko Klasa">
+    <meta name="author" content="Szymon Barasz 2TE">
     <meta name="keywords" content="html, css, 2te1, cosinus">
     
     <style>
@@ -16,8 +16,8 @@
         background-color: green;
       }
       
-      .color-white {
-        color: white; /* #FFFFFF */
+      .color-cyan {
+        color: cyan; /* #FFFFFF */
       }
       
       .text-sm {
