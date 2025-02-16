@@ -1,0 +1,46 @@
+<html>
+  
+  <head>
+    <!-- Komentarz 1 -->
+    <title>Strona główna 2TE1</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="Imię Nazwisko Klasa">
+    <meta name="keywords" content="html, css, 2te1, cosinus">
+    
+    <style>
+      * {
+        margin: 0;
+      }
+    
+      .bg-green {
+        background-color: green;
+      }
+      
+      .color-white {
+        color: white; /* #FFFFFF */
+      }
+      
+      .text-sm {
+        font-size: 10px;
+      }
+    </style>
+  </head>
+  
+  
+  <body>
+    
+    <header>
+      <div id="info" class="bg-green color-white text-sm">Phasellus mollis, velit ut dictum venenatis, nisi diam eleifend erat, ac facilisis leo justo nec massa. <strong>Donec id velit felis.</strong></div>
+    </header>
+    
+    <main>
+      2
+    </main>
+    
+    <footer>
+      3
+    </footer>
+    
+  </body>
+  
+  </html>  
